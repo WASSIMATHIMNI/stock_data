@@ -1,6 +1,6 @@
 # Stock Data
 A repo containing stock data for research.
-The files format follows the following structure:
+The file format follows the following structure:
 
 **$Ticker_$Candle($StartDate-$EndDate)**
 
